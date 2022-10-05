@@ -10,7 +10,7 @@ class Header extends Component {
                         <div id="logo">
                             <img src={logo} className="app-logo" alt="Logotipo" />
                             <span id="brand">
-                                <strong>Curso</strong>React
+                                <strong>Pacho</strong>React
                     </span>
                         </div>
                         <nav id="menu">
